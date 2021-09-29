@@ -1,0 +1,9 @@
+name = "weddingten"
+type = "webpack"
+route = ''
+zone_id = ''
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+compatibility_date = "2021-09-29"
+account_id = "166a90f05ce77609ac5401cb3906c397"
